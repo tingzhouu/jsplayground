@@ -1,4 +1,4 @@
-# Project Title
+# Javascript Playground
 
 Template for local javascript playground in Visual Studio Code.
 
