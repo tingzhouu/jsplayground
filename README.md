@@ -25,9 +25,5 @@ npm i
 }
 ```
 
-Navigate to `test.js` and press run code snippet! Use `cmd shift p` to toggle header menu in below screenshot.
-<img src="https://drive.google.com/uc?export=view&id=1tZE8lKSPfP6zSCVv0qGUplavBeCJl0U6">
-
-## Authors
-
-* **Ting Zhou** - [tingzhouu](https://github.com/tingzhouu)
+Open `test.js` in root directory and run code snippet! Use `cmd shift p` to toggle header menu in below screenshot.
+<img src="https://drive.google.com/uc?export=view&id=1UoLU1MSyKroWS8jWHolyA7Y4_DPNEoCN">
