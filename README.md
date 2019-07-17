@@ -25,7 +25,7 @@ npm i
 }
 ```
 
-Navigate to `test.js` and press run code snippet!
+Navigate to `test.js` and press run code snippet! Use `cmd shift p` to toggle header menu in below screenshot.
 <img src="https://drive.google.com/uc?export=view&id=1tZE8lKSPfP6zSCVv0qGUplavBeCJl0U6">
 
 ## Authors
