@@ -6,7 +6,7 @@ Template for local javascript playground in Visual Studio Code.
 
 1. Visual Studio Code
 
-2. [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+2. [Code Runner Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
 ### Installing
 
@@ -26,6 +26,7 @@ npm i
 ```
 
 Navigate to `test.js` and press run code snippet!
+<img src="https://drive.google.com/uc?export=view&id=1tZE8lKSPfP6zSCVv0qGUplavBeCJl0U6">
 
 ## Authors
 
